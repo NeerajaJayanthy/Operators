@@ -1,0 +1,5 @@
+#Write a Python Program to calculate Simple Interest
+x=1000
+y=3.2
+z=5
+print((x*y*z)/100)
